@@ -1,4 +1,5 @@
 # TLAESHelper
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/Andrew/TLAESHelper.svg?style=flat)](https://travis-ci.org/Andrew/TLAESHelper)
 [![Version](https://img.shields.io/cocoapods/v/TLAESHelper.svg?style=flat)](http://cocoapods.org/pods/TLAESHelper)
@@ -27,3 +28,6 @@ Andrew, anluanlu123@163.com
 ## License
 
 TLAESHelper is available under the MIT license. See the LICENSE file for more info.
+=======
+AES加密类库
+>>>>>>> 5c9155e002a5cbb68ad83c0b4c6ba0c39d8f0a36
