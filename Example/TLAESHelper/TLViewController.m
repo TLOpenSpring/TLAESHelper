@@ -7,6 +7,9 @@
 //
 
 #import "TLViewController.h"
+#import <TLAESHelper/NSString+AES.h>
+#import <NSString+AES.h>
+#import <NSData+Encryption.h>
 
 @interface TLViewController ()
 
@@ -18,6 +21,18 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSString *str = @"中国";
+   
+   
+    
+    
+//    NSData  *d1 =[data AES256ParmDecryptWithKey:@"中国"];
+//    NSLog(@"d1:%@",d1.description);
+    
+
+
+    
 }
 
 - (void)didReceiveMemoryWarning

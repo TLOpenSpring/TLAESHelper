@@ -8,11 +8,17 @@
 
 #import "TLAppDelegate.h"
 
+#import <NSString+AES.h>
+
 @implementation TLAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    NSString *dd= @"中国";
+
+    
     return YES;
 }
 

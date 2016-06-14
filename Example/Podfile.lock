@@ -1,0 +1,14 @@
+PODS:
+  - TLAESHelper (0.1.0)
+
+DEPENDENCIES:
+  - TLAESHelper (from `../`)
+
+EXTERNAL SOURCES:
+  TLAESHelper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TLAESHelper: b64369a69e67c102ecb829f420493278f1f60db0
+
+COCOAPODS: 0.39.0
